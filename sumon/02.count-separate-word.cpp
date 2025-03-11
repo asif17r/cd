@@ -6,7 +6,7 @@ bool isVowel(char c)
 {
     switch (tolower(c))
     {
-    case 'a':
+    case 'a':   
     case 'e':
     case 'i':
     case 'o':
