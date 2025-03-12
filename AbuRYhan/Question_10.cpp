@@ -3,6 +3,8 @@ using namespace std;
 
 
 string space = "\t\t\t\t";
+
+
 int main(){
     int n;
     cout << "Enter the number of production rules : ";
